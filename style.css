@@ -1,0 +1,21 @@
+*, body {
+    text-align: center;
+}
+
+.a {
+    display: inline-table;
+    object-position: relative;
+    align-items: stretch;
+}
+
+.navbar-expand-lg {
+    background-color: #3793F8 !important;
+}
+
+.card-img-top {
+    -ms-flex-align: baseline;
+}
+
+.jumbotron-fluid {
+    background-color: #3793F8;
+}
